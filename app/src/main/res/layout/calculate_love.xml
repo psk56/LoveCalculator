@@ -1,0 +1,130 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/activity_back"
+    android:orientation="vertical"
+    android:weightSum="3">
+
+    <RelativeLayout
+        android:layout_marginTop="60dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.psktechnology.lovecalculator.customui.cTexviewBold
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Love Calculator"
+            android:gravity="center_horizontal"
+            android:textColor="@android:color/white"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/adlayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:orientation="vertical">
+
+            <com.psktechnology.lovecalculator.customui.cButtonRegular
+                android:id="@+id/btnname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/button_bg"
+                android:inputType="textCapSentences"
+                android:padding="10dp"
+                android:shadowColor="@android:color/black"
+                android:shadowDy="1"
+                android:shadowRadius="0.10"
+                android:text="@string/btn_calculate_love_by_name"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/btn_text_size"
+                android:textStyle="bold" />
+
+            <com.psktechnology.lovecalculator.customui.cButtonRegular
+                android:id="@+id/btnbday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_bg"
+                android:inputType="textCapSentences"
+                android:padding="10dp"
+                android:shadowColor="@android:color/black"
+                android:shadowDy="1"
+                android:shadowRadius="0.10"
+                android:text="@string/btn_calculate_love_by_bdate"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/btn_text_size"
+                android:textStyle="bold" />
+
+            <com.psktechnology.lovecalculator.customui.cButtonRegular
+                android:id="@+id/btnage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_bg"
+                android:inputType="textCapSentences"
+                android:padding="10dp"
+                android:shadowColor="@android:color/black"
+                android:shadowDy="1"
+                android:shadowRadius="0.10"
+                android:text="@string/btn_calculate_love_by_age"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/btn_text_size"
+                android:textStyle="bold" />
+
+            <com.psktechnology.lovecalculator.customui.cButtonRegular
+                android:id="@+id/btnzodiac"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_bg"
+                android:inputType="textCapSentences"
+                android:padding="10dp"
+                android:shadowColor="@android:color/black"
+                android:shadowDy="1"
+                android:shadowRadius="0.10"
+                android:text="@string/btn_calculate_love_by_zodiac"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/btn_text_size"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

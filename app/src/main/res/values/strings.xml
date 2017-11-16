@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Love Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_calculate_love">Calculate Love</string>
+    <string name="activity_calculation">Calculation</string>
+    <string name="activity_result_dialog">Result Dialog</string>
+    <string name="btn_calculate_love_by_name">Calculate by Name</string>
+    <string name="btn_calculate_love_by_bdate">Calculate by B\'date</string>
+    <string name="btn_calculate_love_by_age">Calculate by Age</string>
+    <string name="btn_calculate_love_by_zodiac">Calculate by Zodiac</string>
+    <string name="btn_calculate">Go!</string>
+    <string name="tv_mail">&#xf003;</string>
+    <string name="tv_share">&#xf1e0;</string>
+    <string name="tv_message">&#xf1d7;</string>
+    <string name="tv_loves">&#xf004;</string>
+    <string name="title_activity_result__snap">Result_Snap</string>
+
+    <string name="permission_denied_storage">Without this permission you can\'t insert camera pictures. Are you sure you want to deny this permission?</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_deny">Deny</string>
+    <string name="permission_retry">Re-try</string>
+</resources>

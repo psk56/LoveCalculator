@@ -1,0 +1,7 @@
+#Thu Nov 16 16:59:57 IST 2017
+base.0=E\:\\Nachiket\\000LatestApps\\November-2017\\LoveCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Nachiket\\000LatestApps\\November-2017\\LoveCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes2.dex
+base.1=E\:\\Nachiket\\000LatestApps\\November-2017\\LoveCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+file.0=E\:\\Nachiket\\000LatestApps\\November-2017\\LoveCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex

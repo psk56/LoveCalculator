@@ -1,0 +1,124 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/activity_back"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_horizontal">
+
+        <com.psktechnology.lovecalculator.customui.cTexviewBold
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text="Love Calculator"
+            android:textColor="@android:color/white"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etyou"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/edittext_bg"
+            android:ellipsize="end"
+            android:ems="10"
+            android:hint="You"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLines="1"
+            android:padding="10dp"
+            android:shadowColor="@android:color/black"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/et_text_size">
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/etyourpartner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edittext_bg"
+            android:ellipsize="end"
+            android:ems="10"
+            android:hint="Your Partner"
+            android:imeOptions="actionDone"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLines="1"
+            android:padding="10dp"
+            android:shadowColor="@android:color/black"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/et_text_size" />
+
+        <Spinner
+            android:id="@+id/spyou"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="40dp"
+            android:background="@android:color/white"
+            android:backgroundTint="@android:color/white" />
+
+        <Spinner
+            android:id="@+id/spyourpartner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/white"
+            android:backgroundTint="@android:color/white" />
+
+        <Button
+            android:id="@+id/btncalculate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_bg"
+            android:padding="10dp"
+            android:shadowColor="@android:color/black"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:text="@string/btn_calculate"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/btn_text_size"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/adlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_36dd0af26273798bd62be645932b66510c0fa7c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_63679f3dece3898c612df7237a98115b972f680a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_ad9f943cb3c11c37acd54313d17929b5127e98a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Dontuse\Software\kirti\android-sdk_2_19_windows\android-sdk_2_19_windows\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_469a290ae5f79d5c9dcd9e7fd0e9c402345d3e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_0699a2a5cfaf482bb006451f0549220dc040f476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_fd08f9d91be25117e7626162b64a9370c3610b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_a06a441c7efcc42e833308ca70971671a91461ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8707d0f32375397f54ff3a97eb9856501f50ccb2">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d81fee278997d3b9fa48ef08d6578e4d9112fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_2bd526c81de5e4e01009d14865fec01e3e1b3f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_f40973130b9d229797ff5ed8c509fb05da1fadef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_7fef6feaffcba9bb1bf614914ef938cb9652f5ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_6e6a422522ada1434c7c46fefcc739801c39e6b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_460a8c1a3ee564c14e2812d81ba0153c0dbcd959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\libs\StartAppInApp-2.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9b3c9e38efbb26354a495a812d8832bf3eb8ce32">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\StartAppInApp-2.4.9_7a37368ac6df31f467e5d1adc7eff3c54c861297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_ca77e8d3133006efe92ae999ec715b961d103dd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_8867d6a501dd284812c481bde4f8ade6405f51db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="21ecfe2046440f14b049834baf65d275a76b8e7f">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8ccb7104a898e81cb245e2d45a7e6c8408fd3782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_827dab973240b15dad6cf4529bcfaa7fe1130200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_31d3ba5234dd94d5b57d1f7ccad35e3bfa14d9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_6c5fb291ed5db933f66aa288b708a3533e4013ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_1944d6ca64485ee1ed78b63a93ccd9f99d5e4a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_3ed18558546bec5908bca4481f36042d65385faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_847823d007dded15ca51799a1e26208723f9912a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_c4372153fe16bdd09c75e2ef989554a327af2bf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_049ebba6cb81e3f870f87141fbcbd7207915191e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_d517787c2f6e02c8709e2478bb6a355ac42f5888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_f887b27b7073215fedd253cb58ccf5240c6f1229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_67ceafd71f3fdd0cbb1c00c494a9616fd173226f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_578bb6c75779923c5d8efb352f00c6ef96395b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_a5052589e30b407d6c5a480fed0a66febe467ee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_10702715907b9841c38d9ef00031a0082a6ed060\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_bcdb1e2d34f0006fb5a6983ebeb04612ea42d89d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_b7f9bf780f9e1f4896780a49f31945078195c620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6a183a5156443740bda848d2a2a5f6b1a4f6993c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_8cf51ad123f22c9dbd80ee119342bfc705f322f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_df0d799ab01a4602f2281dcd821ff74c1c30c3af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_77f5fbd3ab7b94016e9cbba9d75153c8c92166a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_56864a64ee552373fdee10d551b86f0705e0ec2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_ed9ed74cd6f72506bfead279bb90a22173aa04be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_5f7940b6bec4414fa60977e1a6e0a9618abe078f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_46f90fcae3b717a11efc193636bda9c65031f6a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_e2f1b40ce7c5a29b28f85773a7f36e19f2ae53d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_adfcbd4c873c3a144d7f0d03b0321904dbf70e5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_402ee8427e533c430aa7cd8dfba08c7f863ee9bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_09ef6fa24c64b9a03fe6785f8c6ff24a0cd0ab92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_1890f8a8ad926a7553236987be90bbf836579567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_d8cc623ac303f1b89a2dd263645db1ba0a9789a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ac7941f4aa14bbbd2e5ed0a2c73f385208298bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e25650d674008209ac274d9987e376aac1bc587f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_b1adfc2dfd595462e5cafe3e91b5cba4e5f2eef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_04ff308480b75b49eab74eb1858bc5d0e0c59195\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_3d104124754551661e3fe4b1d5bd52300a5047f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_b89f4b8c4da720c5f33c3289137ae9fd62ab6b1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_5f8b0775caab414d30745f92ccc01405ad0643f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_e9d66f0dcd9d57764dde364306ff8a0e39479749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_7263eee62fe5b6272563cab7f896c49ef7c3b8b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_ab6386b2cd2e5d970a7233372e84646ed7eaab4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4d0d6e789a79afe64a477ab3f715b7d145825142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_bc8b5bdf25416c21b90fc40306a92d7da2473b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_b96eb49cf41008f8638b7538be59b89b4754f7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_80c6c7feb399d1afce76d23b42f638045a93584a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_afe70dff54b7b8ef0ad4dc2939eaecf5d9898111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9fa80ad586f90da1a0e9c8425edcd226937f7c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_d418904a80b2651e191fdcfb39c2632de3bd5516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_36fb3f1eb9a64bf4280daf3c5ccd281fd51b1a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c9edabd1b09bffc48194010d607f3b2a5e913d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_7a1132421b62417a3420b26de53eae5597f8569b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ca0680e0e7cb42d9c267f6ac083644e87e622d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_d50510f28dfbb91cbd53cc6a6f85ecd0514102da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\libs\mobilecore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="700616885cd52bb119076555a62a17c436ae511d">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecore_a91bb166cb42a23fafe014cbfdee504c6108a498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\Nachiket\000Latest Apps\LoveCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_00fc40940a2d16bcfc1fdb95e77b89d46fafa6ff\classes.dex" />
+    </item>
+
+</items>

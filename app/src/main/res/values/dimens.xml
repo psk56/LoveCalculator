@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="result_name">25sp</dimen>
+    <dimen name="result_loves">20sp</dimen>
+    <dimen name="result_love_percentage">30sp</dimen>
+    <dimen name="result_share">30sp</dimen>
+    <dimen name="btn_text_size">20sp</dimen>
+    <dimen name="et_text_size">20sp</dimen>
+
+</resources>

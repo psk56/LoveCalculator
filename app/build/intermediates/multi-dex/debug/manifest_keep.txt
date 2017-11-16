@@ -1,0 +1,3 @@
+# Referenced at E:\Nachiket\000LatestApps\November-2017\LoveCalculator\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:38
+-keep class com.psktechnology.lovecalculator.LoveCalculator { <init>(...); }
+

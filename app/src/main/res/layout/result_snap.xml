@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/result_bg"
+    android:orientation="vertical"
+    android:padding="2dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:shadowColor="@android:color/white"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:text="Love Calculator"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/result_love_percentage"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/tvu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right|center_vertical"
+            android:shadowColor="@android:color/white"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:text="You"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/result_name"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvloves"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:shadowColor="@android:color/white"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:text="@string/tv_loves"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/result_loves"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvurp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical"
+            android:shadowColor="@android:color/white"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:text="Your Partner"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/result_name"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/tvlovepercentage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:shadowColor="@android:color/white"
+            android:shadowDy="1"
+            android:shadowRadius="0.10"
+            android:text="99%"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/btn_selected_bg"
+            android:textSize="@dimen/result_love_percentage"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</LinearLayout>
